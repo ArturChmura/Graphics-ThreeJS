@@ -13,5 +13,6 @@ Q - zmiana trybu cieniowania
 1 - Kamera główna (można ją przesówać za pomocą muszki)
 2 - Trzecioosobowa kamera
 3 - Statyczna kamera śledząca
+* ![plot](./Screenshot_1.png)
     
 
